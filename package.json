@@ -1,0 +1,23 @@
+{
+  "name": "KidPoints",
+  "version": "0.0.1",
+  "description": "KidPoints",
+  "author": "Jake Anderson",
+  "main": "app.js",
+  "homepage": "http://thenerdnest.com",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/shake10861/KidPoints.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1",
+    "mongoose": "^4.1.0",
+    "morgan": "^1.6.1",
+    "node-schedule": "^0.2.9"
+  },
+  "engines": {
+    "node": ">=0.10.24"
+  }
+}
